@@ -1,3 +1,4 @@
 taskbuster/db.sqlite3
 __pycache__
 .idea
+taskbuster/settings/settings_secret.py
